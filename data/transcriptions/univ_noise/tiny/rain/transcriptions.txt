@@ -1,0 +1,2 @@
+Original:  Above were three students one on each story.
+Adversarial:  Above were three students one on each story.
