@@ -1,5 +1,7 @@
 # Adversarial Example Generation for Audio-based Models Using Whisper
 Autor: Lukáš Hofman  
+MFF UK 2025  
+
 Jedná se o kód spjatý s bakalářskou prací "Nepřátelské vzory pro modely rozpoznávání řeči".
 
 Tato práce využívá whisper_attack a robust_speech, dostupné pod Apache License 2.0 (http://www.apache.org/licenses/) a model Whisper od OpenAI dostupný pod MIT License.
